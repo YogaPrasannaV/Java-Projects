@@ -7,7 +7,7 @@ public class TicTacToe extends Frame implements ActionListener {
     boolean gameOver = false;
 
     public TicTacToe() {
-        setTitle("🎮 Colorful Tic-Tac-Toe");
+        setTitle("YOGA's  Tic-Tac-Toe");
         setSize(420, 420);
         setLayout(new GridLayout(3, 3, 5, 5));
         Font font = new Font("Arial", Font.BOLD, 50);
